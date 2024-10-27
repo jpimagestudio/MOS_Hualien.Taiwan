@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="7.1.4" hassounds="0" apprev="20938" start="node8">
+  <panorama id="node8">
+    <input levelbias="0.400" height="2369" leveltilesize="510" levelingroll="0" levelingpitch="0" width="2369" overlap="1" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level height="2369" preload="0" width="2369" predecode="0"/>
+      <level height="1184" preload="0" width="1184" predecode="0"/>
+      <level height="592" preload="0" width="592" predecode="0"/>
+      <level height="296" preload="1" width="296" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="60.0698">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
+    </view>
+    <userdata latitude="23.97499389" author="James Lee" nodeid="node8" comment="" title="成功街" datetime="2024/10/22 10:49" tags="成功街B|阿思瑪麗景" longitude="121.60863433" customnodeid="" copyright="jp-image.space" info="" source="" heading="60.0698" description="阿思瑪麗景飯店"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label borderradius="1" backgroundalpha="1" bordercolor="0x000000" enabled="1" textalpha="1" height="20" textcolor="0x000000" width="180" wordwrap="1" borderalpha="1" background="1" backgroundcolor="0xffffff" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot description="" skinid="ht_node_1" distance="28.1477" title="成功街光復街口" url="{node12}" pan="30.4275" id="Point01" target="$fwd" tilt="0"/>
+      <hotspot description="just test" skinid="ht_node_1" distance="81.4076" title="福建街博愛街口" url="{node13}" pan="-101.136" id="Point02" target="$fwd" tilt="0"/>
+      <hotspot tilt="22.6" description="" target="" skinid="ht_image" id="Point03" title="" url="images/JMS_4892.jpg" pan="-335.08"/>
+      <hotspot tilt="19.81" description="" target="" skinid="ht_image" id="Point04" title="" url="images/13-2 .jpg" pan="-57.5"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" blendcolor="0x000000" blendtime="1" zoomafteroutfov="40" zoomout="0" zoomfov="40" zoomafterinfov="140" softedge="0" delay="none" zoomspeed="2" zoomoutpause="1" zoomin="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control invertcontrol="1" contextprojections="0" dblclickfullscreen="0" lockedkeyboard="0" hideabout="0" simulatemass="1" sensitivity="8" rubberband="0" invertwheel="0" zoomcentercursor="1" contextvr="1" lockedmouse="0" lockedwheel="0" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node1">
+    <input levelbias="0.400" height="2379" leveltilesize="510" levelingroll="0" levelingpitch="0" width="2379" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level height="2379" preload="0" width="2379" predecode="0"/>
+      <level height="1189" preload="0" width="1189" predecode="0"/>
+      <level height="594" preload="0" width="594" predecode="0"/>
+      <level height="297" preload="1" width="297" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-38.8744">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
+    </view>
+    <userdata latitude="23.97374913" author="James Lee" nodeid="node1" comment="" title="仁愛街" datetime="2024/10/22 13:06" tags="Mos|成功街A" longitude="121.60587698" customnodeid="" copyright="jp-image.space" info="" source="" heading="-38.8744" description="仁愛街54巷3號"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label borderradius="1" backgroundalpha="1" bordercolor="0x000000" enabled="1" textalpha="1" height="20" textcolor="0x000000" width="180" wordwrap="1" borderalpha="1" background="1" backgroundcolor="0xffffff" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot description="" skinid="ht_node_1" distance="12.536" title="仁愛街" url="{node2}" pan="-88.6532" id="Point01" target="$fwd" tilt="0"/>
+      <hotspot description="" skinid="ht_node_1" distance="124.102" title="福建街" url="{node15}" pan="-180.92" id="Point02" target="$fwd" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" blendcolor="0x000000" blendtime="1" zoomafteroutfov="40" zoomout="0" zoomfov="40" zoomafterinfov="140" softedge="0" delay="none" zoomspeed="2" zoomoutpause="1" zoomin="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control invertcontrol="1" contextprojections="0" dblclickfullscreen="0" lockedkeyboard="0" hideabout="0" simulatemass="1" sensitivity="8" rubberband="0" invertwheel="0" zoomcentercursor="1" contextvr="1" lockedmouse="0" lockedwheel="0" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbias="0.400" height="2337" leveltilesize="510" levelingroll="0" levelingpitch="0" width="2337" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level height="2337" preload="0" width="2337" predecode="0"/>
+      <level height="1168" preload="0" width="1168" predecode="0"/>
+      <level height="584" preload="0" width="584" predecode="0"/>
+      <level height="292" preload="1" width="292" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-12.1118">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
+    </view>
+    <userdata latitude="23.97382193" author="James Lee" nodeid="node2" comment="" title="仁愛街" datetime="2024/10/22 13:13" tags="Mos|成功街A" longitude="121.60597119" customnodeid="" copyright="jp-image.space" info="" source="" heading="-12.1118" description="仁愛街54巷3號"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label borderradius="1" backgroundalpha="1" bordercolor="0x000000" enabled="1" textalpha="1" height="20" textcolor="0x000000" width="180" wordwrap="1" borderalpha="1" background="1" backgroundcolor="0xffffff" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot description="" skinid="ht_node_1" distance="45.0596" title="成功街" url="{node3}" pan="-124.666" id="Point01" target="$fwd" tilt="0"/>
+      <hotspot description="" skinid="ht_node_1" distance="66.0863" title="成功街" url="{node5}" pan="-78.461" id="Point02" target="$fwd" tilt="0"/>
+      <hotspot description="" skinid="ht_node_1" distance="12.536" title="仁愛街" url="{node1}" pan="-249.86" id="Point03" target="" tilt="-1.5"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" blendcolor="0x000000" blendtime="1" zoomafteroutfov="40" zoomout="0" zoomfov="40" zoomafterinfov="140" softedge="0" delay="none" zoomspeed="2" zoomoutpause="1" zoomin="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control invertcontrol="1" contextprojections="0" dblclickfullscreen="0" lockedkeyboard="0" hideabout="0" simulatemass="1" sensitivity="8" rubberband="0" invertwheel="0" zoomcentercursor="1" contextvr="1" lockedmouse="0" lockedwheel="0" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node12">
+    <input levelbias="0.400" height="2367" leveltilesize="510" levelingroll="0" levelingpitch="0" width="2367" overlap="1" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level height="2367" preload="0" width="2367" predecode="0"/>
+      <level height="1183" preload="0" width="1183" predecode="0"/>
+      <level height="591" preload="0" width="591" predecode="0"/>
+      <level height="295" preload="1" width="295" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="4.06646">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
+    </view>
+    <userdata latitude="23.97521390" author="James Lee" nodeid="node12" comment="" title="成功街光復街口" datetime="2024/10/22 10:55" tags="成功街B|有人旅宿" longitude="121.60877135" customnodeid="" copyright="jp-image.space" info="" source="" heading="4.06646" description="有人旅宿"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label borderradius="1" backgroundalpha="1" bordercolor="0x000000" enabled="1" textalpha="1" height="20" textcolor="0x000000" width="180" wordwrap="1" borderalpha="1" background="1" backgroundcolor="0xffffff" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot description="" skinid="ht_node_1" distance="10.3244" title="成功街光復街口" url="{node11}" pan="-39.8716" id="Point01" target="$fwd" tilt="0"/>
+      <hotspot description="" skinid="ht_node_1" distance="28.1477" title="成功街" url="{node8}" pan="154.424" id="Point02" target="$fwd" tilt="0"/>
+      <hotspot description="" skinid="ht_node_1" distance="107.642" title="南京街廓" url="{node23}" pan="47.8448" id="Point03" target="$fwd" tilt="0"/>
+      <hotspot tilt="0.97" description="" target="" skinid="ht_image" id="Point04" title="" url="images/JMS_4901.jpg" pan="-59"/>
+      <hotspot tilt="5.48" description="" target="" skinid="ht_image" id="Point05" title="" url="images/13-2 .jpg" pan="-178.97"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" blendcolor="0x000000" blendtime="1" zoomafteroutfov="40" zoomout="0" zoomfov="40" zoomafterinfov="140" softedge="0" delay="none" zoomspeed="2" zoomoutpause="1" zoomin="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control invertcontrol="1" contextprojections="0" dblclickfullscreen="0" lockedkeyboard="0" hideabout="0" simulatemass="1" sensitivity="8" rubberband="0" invertwheel="0" zoomcentercursor="1" contextvr="1" lockedmouse="0" lockedwheel="0" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelbias="0.400" height="2367" leveltilesize="510" levelingroll="0" levelingpitch="0" width="2367" overlap="1" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level height="2367" preload="0" width="2367" predecode="0"/>
+      <level height="1183" preload="0" width="1183" predecode="0"/>
+      <level height="591" preload="0" width="591" predecode="0"/>
+      <level height="295" preload="1" width="295" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-31.9438">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
+    </view>
+    <userdata latitude="23.97528076" author="James Lee" nodeid="node11" comment="" title="成功街光復街口" datetime="2024/10/22 11:01" tags="成功街B|有人旅宿" longitude="121.60884186" customnodeid="" copyright="jp-image.space" info="" source="" heading="-31.9438" description="有人旅宿"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label borderradius="1" backgroundalpha="1" bordercolor="0x000000" enabled="1" textalpha="1" height="20" textcolor="0x000000" width="180" wordwrap="1" borderalpha="1" background="1" backgroundcolor="0xffffff" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-2.31" description="" target="" skinid="ht_node_1" id="Point01" title="成功街光復街口" url="{node10}" pan="-85.54"/>
+      <hotspot description="" skinid="ht_node_1" distance="10.3244" title="成功街光復街口" url="{node12}" pan="104.118" id="Point02" target="$fwd" tilt="0"/>
+      <hotspot tilt="6.03" description="" target="" skinid="ht_image" id="Point03" title="" url="images/MOS-3.jpg" pan="-312.03"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" blendcolor="0x000000" blendtime="1" zoomafteroutfov="40" zoomout="0" zoomfov="40" zoomafterinfov="140" softedge="0" delay="none" zoomspeed="2" zoomoutpause="1" zoomin="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control invertcontrol="1" contextprojections="0" dblclickfullscreen="0" lockedkeyboard="0" hideabout="0" simulatemass="1" sensitivity="8" rubberband="0" invertwheel="0" zoomcentercursor="1" contextvr="1" lockedmouse="0" lockedwheel="0" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelbias="0.400" height="2370" leveltilesize="510" levelingroll="0" levelingpitch="0" width="2370" overlap="1" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level height="2370" preload="0" width="2370" predecode="0"/>
+      <level height="1185" preload="0" width="1185" predecode="0"/>
+      <level height="592" preload="0" width="592" predecode="0"/>
+      <level height="296" preload="1" width="296" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
+    </view>
+    <userdata latitude="" author="James Lee" nodeid="node10" comment="" title="成功街光復街口" datetime="2024/10/22 11:00" tags="成功街B|有人旅宿" longitude="" customnodeid="" copyright="jp-image.space" info="" source="" heading="0" description="有人旅宿"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label borderradius="1" backgroundalpha="1" bordercolor="0x000000" enabled="1" textalpha="1" height="20" textcolor="0x000000" width="180" wordwrap="1" borderalpha="1" background="1" backgroundcolor="0xffffff" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-1.86" description="" target="" skinid="ht_node_1" id="Point01" title="成功街光復街口" url="{node11}" pan="-220.35"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" blendcolor="0x000000" blendtime="1" zoomafteroutfov="40" zoomout="0" zoomfov="40" zoomafterinfov="140" softedge="0" delay="none" zoomspeed="2" zoomoutpause="1" zoomin="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control invertcontrol="1" contextprojections="0" dblclickfullscreen="0" lockedkeyboard="0" hideabout="0" simulatemass="1" sensitivity="8" rubberband="0" invertwheel="0" zoomcentercursor="1" contextvr="1" lockedmouse="0" lockedwheel="0" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbias="0.400" height="1901" leveltilesize="510" levelingroll="0" levelingpitch="0" width="1901" overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level height="1901" preload="0" width="1901" predecode="0"/>
+      <level height="950" preload="0" width="950" predecode="0"/>
+      <level height="475" preload="1" width="475" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-38.6055">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
+    </view>
+    <userdata latitude="23.97366650" author="James Lee" nodeid="node3" comment="" title="成功街" datetime="2024/10/22 13:49" tags="185|Mos|成功街A" longitude="121.60638076" customnodeid="" copyright="jp-image.space" info="" source="" heading="-38.6055" description="成功街185號"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label borderradius="1" backgroundalpha="1" bordercolor="0x000000" enabled="1" textalpha="1" height="20" textcolor="0x000000" width="180" wordwrap="1" borderalpha="1" background="1" backgroundcolor="0xffffff" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot description="" skinid="ht_node_1" distance="47.7073" title="成功街" url="{node5}" pan="-61.9735" id="Point01" target="$fwd" tilt="0"/>
+      <hotspot description="" skinid="ht_node_1" distance="45.0596" title="仁愛街" url="{node2}" pan="28.8401" id="Point02" target="$fwd" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" blendcolor="0x000000" blendtime="1" zoomafteroutfov="40" zoomout="0" zoomfov="40" zoomafterinfov="140" softedge="0" delay="none" zoomspeed="2" zoomoutpause="1" zoomin="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control invertcontrol="1" contextprojections="0" dblclickfullscreen="0" lockedkeyboard="0" hideabout="0" simulatemass="1" sensitivity="8" rubberband="0" invertwheel="0" zoomcentercursor="1" contextvr="1" lockedmouse="0" lockedwheel="0" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelbias="0.400" height="2336" leveltilesize="510" levelingroll="0" levelingpitch="0" width="2336" overlap="1" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level height="2336" preload="0" width="2336" predecode="0"/>
+      <level height="1168" preload="0" width="1168" predecode="0"/>
+      <level height="584" preload="0" width="584" predecode="0"/>
+      <level height="292" preload="1" width="292" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-29.8946">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
+    </view>
+    <userdata latitude="23.97406035" author="James Lee" nodeid="node5" comment="" title="成功街" datetime="2024/10/22 13:01" tags="Mos|忠孝立體停車場|成功街A" longitude="121.60656700" customnodeid="" copyright="jp-image.space" info="" source="" heading="-29.8946" description="忠孝立體停車場"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label borderradius="1" backgroundalpha="1" bordercolor="0x000000" enabled="1" textalpha="1" height="20" textcolor="0x000000" width="180" wordwrap="1" borderalpha="1" background="1" backgroundcolor="0xffffff" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot description="" skinid="ht_node_1" distance="48.476" title="成功街" url="{node6}" pan="-102.369" id="Point01" target="$fwd" tilt="0"/>
+      <hotspot description="" skinid="ht_node_1" distance="47.7073" title="成功街" url="{node3}" pan="126.737" id="Point02" target="$fwd" tilt="0"/>
+      <hotspot description="" skinid="ht_node_1" distance="66.0863" title="仁愛街" url="{node2}" pan="83.7559" id="Point03" target="$fwd" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" blendcolor="0x000000" blendtime="1" zoomafteroutfov="40" zoomout="0" zoomfov="40" zoomafterinfov="140" softedge="0" delay="none" zoomspeed="2" zoomoutpause="1" zoomin="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control invertcontrol="1" contextprojections="0" dblclickfullscreen="0" lockedkeyboard="0" hideabout="0" simulatemass="1" sensitivity="8" rubberband="0" invertwheel="0" zoomcentercursor="1" contextvr="1" lockedmouse="0" lockedwheel="0" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelbias="0.400" height="2335" leveltilesize="510" levelingroll="0" levelingpitch="0" width="2335" overlap="1" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level height="2335" preload="0" width="2335" predecode="0"/>
+      <level height="1167" preload="0" width="1167" predecode="0"/>
+      <level height="583" preload="0" width="583" predecode="0"/>
+      <level height="291" preload="1" width="291" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="44.1693">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
+    </view>
+    <userdata latitude="23.97419163" author="James Lee" nodeid="node6" comment="" title="成功街" datetime="2024/10/22 13:21" tags="Mos|成功街A" longitude="121.60702197" customnodeid="" copyright="jp-image.space" info="" source="" heading="44.1693" description="成功街266號前"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label borderradius="1" backgroundalpha="1" bordercolor="0x000000" enabled="1" textalpha="1" height="20" textcolor="0x000000" width="180" wordwrap="1" borderalpha="1" background="1" backgroundcolor="0xffffff" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot description="" skinid="ht_node_1" distance="10.7316" title="成功街" url="{node7}" pan="3.25236" id="Point01" target="$fwd" tilt="0"/>
+      <hotspot description="" skinid="ht_node_1" distance="48.476" title="成功街" url="{node5}" pan="151.695" id="Point02" target="$fwd" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" blendcolor="0x000000" blendtime="1" zoomafteroutfov="40" zoomout="0" zoomfov="40" zoomafterinfov="140" softedge="0" delay="none" zoomspeed="2" zoomoutpause="1" zoomin="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control invertcontrol="1" contextprojections="0" dblclickfullscreen="0" lockedkeyboard="0" hideabout="0" simulatemass="1" sensitivity="8" rubberband="0" invertwheel="0" zoomcentercursor="1" contextvr="1" lockedmouse="0" lockedwheel="0" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelbias="0.400" height="2337" leveltilesize="510" levelingroll="0" levelingpitch="0" width="2337" overlap="1" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level height="2337" preload="0" width="2337" predecode="0"/>
+      <level height="1168" preload="0" width="1168" predecode="0"/>
+      <level height="584" preload="0" width="584" predecode="0"/>
+      <level height="292" preload="1" width="292" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-131.442">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
+    </view>
+    <userdata latitude="23.97426456" author="James Lee" nodeid="node7" comment="" title="成功街" datetime="2024/10/22 13:24" tags="Mos|成功街A" longitude="121.60709115" customnodeid="" copyright="jp-image.space" info="" source="" heading="-131.442" description="成功街272號前"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label borderradius="1" backgroundalpha="1" bordercolor="0x000000" enabled="1" textalpha="1" height="20" textcolor="0x000000" width="180" wordwrap="1" borderalpha="1" background="1" backgroundcolor="0xffffff" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot description="" skinid="ht_node_1" distance="10.7316" title="成功街" url="{node6}" pan="7.64103" id="Point01" target="$fwd" tilt="0"/>
+      <hotspot description="" skinid="ht_node_1" distance="78.3149" title="" url="{node27}" pan="-173.083" id="Point02" target="$fwd" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" blendcolor="0x000000" blendtime="1" zoomafteroutfov="40" zoomout="0" zoomfov="40" zoomafterinfov="140" softedge="0" delay="none" zoomspeed="2" zoomoutpause="1" zoomin="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control invertcontrol="1" contextprojections="0" dblclickfullscreen="0" lockedkeyboard="0" hideabout="0" simulatemass="1" sensitivity="8" rubberband="0" invertwheel="0" zoomcentercursor="1" contextvr="1" lockedmouse="0" lockedwheel="0" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node13">
+    <input levelbias="0.400" height="2328" leveltilesize="510" levelingroll="0" levelingpitch="0" width="2328" overlap="1" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level height="2328" preload="0" width="2328" predecode="0"/>
+      <level height="1164" preload="0" width="1164" predecode="0"/>
+      <level height="582" preload="0" width="582" predecode="0"/>
+      <level height="291" preload="1" width="291" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-202.192">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
+    </view>
+    <userdata latitude="23.97430081" author="James Lee" nodeid="node13" comment="" title="福建街博愛街口" datetime="2024/10/22 12:51" tags="Mos|福建街博愛街口" longitude="121.60889247" customnodeid="" copyright="jp-image.space" info="" source="" heading="-202.192" description="立馨物理"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label borderradius="1" backgroundalpha="1" bordercolor="0x000000" enabled="1" textalpha="1" height="20" textcolor="0x000000" width="180" wordwrap="1" borderalpha="1" background="1" backgroundcolor="0xffffff" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot description="" skinid="ht_node_1" distance="81.4076" title="成功街" url="{node8}" pan="-183.398" id="Point02" target="$fwd" tilt="0"/>
+      <hotspot description="" skinid="ht_node_1" distance="61.8689" title="成功街" url="{node14}" pan="-94.471" id="Point01" target="$fwd" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" blendcolor="0x000000" blendtime="1" zoomafteroutfov="40" zoomout="0" zoomfov="40" zoomafterinfov="140" softedge="0" delay="none" zoomspeed="2" zoomoutpause="1" zoomin="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control invertcontrol="1" contextprojections="0" dblclickfullscreen="0" lockedkeyboard="0" hideabout="0" simulatemass="1" sensitivity="8" rubberband="0" invertwheel="0" zoomcentercursor="1" contextvr="1" lockedmouse="0" lockedwheel="0" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node14">
+    <input levelbias="0.400" height="2464" leveltilesize="510" levelingroll="0" levelingpitch="0" width="2464" overlap="1" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level height="2464" preload="0" width="2464" predecode="0"/>
+      <level height="1232" preload="0" width="1232" predecode="0"/>
+      <level height="616" preload="0" width="616" predecode="0"/>
+      <level height="308" preload="1" width="308" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-56.3189">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
+    </view>
+    <userdata latitude="23.97413145" author="James Lee" nodeid="node14" comment="" title="成功街" datetime="2024/10/22 12:10" tags="Mos|福建街博愛街口" longitude="121.60831243" customnodeid="" copyright="jp-image.space" info="" source="" heading="-56.3189" description="成功街300巷"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label borderradius="1" backgroundalpha="1" bordercolor="0x000000" enabled="1" textalpha="1" height="20" textcolor="0x000000" width="180" wordwrap="1" borderalpha="1" background="1" backgroundcolor="0xffffff" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot description="" skinid="ht_node_1" distance="10.3772" title="" url="{node28}" pan="100.484" id="Point01" target="$fwd" tilt="0"/>
+      <hotspot tilt="-0.29" description="大鯨魚" target="" skinid="ht_image" id="Point02" title="鯨魚" url="images/MOS-24.jpg" pan="-52.5"/>
+      <hotspot description="" skinid="ht_node_1" distance="61.8689" title="福建街博愛街口" url="{node13}" pan="-128.598" id="Point03" target="$fwd" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" blendcolor="0x000000" blendtime="1" zoomafteroutfov="40" zoomout="0" zoomfov="40" zoomafterinfov="140" softedge="0" delay="none" zoomspeed="2" zoomoutpause="1" zoomin="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control invertcontrol="1" contextprojections="0" dblclickfullscreen="0" lockedkeyboard="0" hideabout="0" simulatemass="1" sensitivity="8" rubberband="0" invertwheel="0" zoomcentercursor="1" contextvr="1" lockedmouse="0" lockedwheel="0" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node28">
+    <input levelbias="0.400" height="2465" leveltilesize="510" levelingroll="0" levelingpitch="0" width="2465" overlap="1" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level height="2465" preload="0" width="2465" predecode="0"/>
+      <level height="1232" preload="0" width="1232" predecode="0"/>
+      <level height="616" preload="0" width="616" predecode="0"/>
+      <level height="308" preload="1" width="308" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="139.64">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
+    </view>
+    <userdata latitude="23.97404567" author="James Lee" nodeid="node28" comment="" title="" datetime="2024/10/22 12:13" tags="Mos|Mos2" longitude="121.60827220" customnodeid="" copyright="jp-image.space" info="" source="" heading="139.64" description=""/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label borderradius="1" backgroundalpha="1" bordercolor="0x000000" enabled="1" textalpha="1" height="20" textcolor="0x000000" width="180" wordwrap="1" borderalpha="1" background="1" backgroundcolor="0xffffff" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot description="" skinid="ht_node_1" distance="10.3772" title="成功街" url="{node14}" pan="116.443" id="Point01" target="$fwd" tilt="0"/>
+      <hotspot description="" skinid="ht_node_1" distance="110.709" title="廣東街自由路口" url="{node16}" pan="314.611" id="Point02" target="$fwd" tilt="0"/>
+      <hotspot tilt="0.62" description="" target="" skinid="ht_image" id="Point03" title="" url="images/MOS-26.jpg" pan="-1.23"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" blendcolor="0x000000" blendtime="1" zoomafteroutfov="40" zoomout="0" zoomfov="40" zoomafterinfov="140" softedge="0" delay="none" zoomspeed="2" zoomoutpause="1" zoomin="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control invertcontrol="1" contextprojections="0" dblclickfullscreen="0" lockedkeyboard="0" hideabout="0" simulatemass="1" sensitivity="8" rubberband="0" invertwheel="0" zoomcentercursor="1" contextvr="1" lockedmouse="0" lockedwheel="0" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node15">
+    <input levelbias="0.400" height="1892" leveltilesize="510" levelingroll="0" levelingpitch="0" width="1892" overlap="1" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level height="1892" preload="0" width="1892" predecode="0"/>
+      <level height="946" preload="0" width="946" predecode="0"/>
+      <level height="473" preload="1" width="473" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="146.567">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
+    </view>
+    <userdata latitude="23.97286910" author="James Lee" nodeid="node15" comment="" title="福建街" datetime="2024/10/22 13:44" tags="360|Mos|福建街" longitude="121.60662820" customnodeid="" copyright="jp-image.space" info="" source="" heading="146.567" description="福建街360號"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label borderradius="1" backgroundalpha="1" bordercolor="0x000000" enabled="1" textalpha="1" height="20" textcolor="0x000000" width="180" wordwrap="1" borderalpha="1" background="1" backgroundcolor="0xffffff" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot description="" skinid="ht_node_1" distance="158.666" title="廣東街自由路口" url="{node16}" pan="64.0074" id="Point01" target="$fwd" tilt="0"/>
+      <hotspot description="" skinid="ht_node_1" distance="124.102" title="仁愛街" url="{node1}" pan="184.521" id="Point02" target="$fwd" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" blendcolor="0x000000" blendtime="1" zoomafteroutfov="40" zoomout="0" zoomfov="40" zoomafterinfov="140" softedge="0" delay="none" zoomspeed="2" zoomoutpause="1" zoomin="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control invertcontrol="1" contextprojections="0" dblclickfullscreen="0" lockedkeyboard="0" hideabout="0" simulatemass="1" sensitivity="8" rubberband="0" invertwheel="0" zoomcentercursor="1" contextvr="1" lockedmouse="0" lockedwheel="0" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node16">
+    <input levelbias="0.400" height="2335" leveltilesize="510" levelingroll="0" levelingpitch="0" width="2335" overlap="1" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level height="2335" preload="0" width="2335" predecode="0"/>
+      <level height="1167" preload="0" width="1167" predecode="0"/>
+      <level height="583" preload="0" width="583" predecode="0"/>
+      <level height="291" preload="1" width="291" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="247.119">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
+    </view>
+    <userdata latitude="23.97305387" author="James Lee" nodeid="node16" comment="" title="廣東街自由路口" datetime="2024/10/22 13:38" tags="296|Mos|廣東自由路口" longitude="121.60817668" customnodeid="" copyright="jp-image.space" info="" source="" heading="247.119" description="廣東街296號前"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label borderradius="1" backgroundalpha="1" bordercolor="0x000000" enabled="1" textalpha="1" height="20" textcolor="0x000000" width="180" wordwrap="1" borderalpha="1" background="1" backgroundcolor="0xffffff" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot description="" skinid="ht_node_1" distance="110.709" title="" url="{node28}" pan="242.09" id="Point01" target="$fwd" tilt="0"/>
+      <hotspot description="" skinid="ht_node_1" distance="158.666" title="福建街" url="{node15}" pan="344.559" id="Point02" target="$fwd" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" blendcolor="0x000000" blendtime="1" zoomafteroutfov="40" zoomout="0" zoomfov="40" zoomafterinfov="140" softedge="0" delay="none" zoomspeed="2" zoomoutpause="1" zoomin="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control invertcontrol="1" contextprojections="0" dblclickfullscreen="0" lockedkeyboard="0" hideabout="0" simulatemass="1" sensitivity="8" rubberband="0" invertwheel="0" zoomcentercursor="1" contextvr="1" lockedmouse="0" lockedwheel="0" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node24">
+    <input levelbias="0.400" height="2337" leveltilesize="510" levelingroll="0" levelingpitch="0" width="2337" overlap="1" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level height="2337" preload="0" width="2337" predecode="0"/>
+      <level height="1168" preload="0" width="1168" predecode="0"/>
+      <level height="584" preload="0" width="584" predecode="0"/>
+      <level height="292" preload="1" width="292" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-241.028">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
+    </view>
+    <userdata latitude="23.97538773" author="James Lee" nodeid="node24" comment="" title="南京街廓" datetime="2024/10/22 12:29" tags="Mos|南京街廓" longitude="121.60744235" customnodeid="" copyright="jp-image.space" info="" source="" heading="-241.028" description="南京郵局前"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label borderradius="1" backgroundalpha="1" bordercolor="0x000000" enabled="1" textalpha="1" height="20" textcolor="0x000000" width="180" wordwrap="1" borderalpha="1" background="1" backgroundcolor="0xffffff" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot description="" skinid="ht_node_1" distance="27.3606" title="南京街廓" url="{node20}" pan="-92.85" id="Point02" target="" tilt="3.05"/>
+      <hotspot description="" skinid="ht_node_1" distance="60.2035" title="南京街廓" url="{node22}" pan="-295.12" id="Point03" target="" tilt="0.77"/>
+      <hotspot description="" skinid="ht_node_1" distance="11.6242" title="南京街廓" url="{node21}" pan="-331.028" id="Point01" target="$fwd" tilt="0"/>
+      <hotspot tilt="1.33" description="" target="" skinid="ht_image" id="Point04" title="" url="images/298.jpg" pan="-57.38"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" blendcolor="0x000000" blendtime="1" zoomafteroutfov="40" zoomout="0" zoomfov="40" zoomafterinfov="140" softedge="0" delay="none" zoomspeed="2" zoomoutpause="1" zoomin="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control invertcontrol="1" contextprojections="0" dblclickfullscreen="0" lockedkeyboard="0" hideabout="0" simulatemass="1" sensitivity="8" rubberband="0" invertwheel="0" zoomcentercursor="1" contextvr="1" lockedmouse="0" lockedwheel="0" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node20">
+    <input levelbias="0.400" height="1883" leveltilesize="510" levelingroll="0" levelingpitch="0" width="1883" overlap="1" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level height="1883" preload="0" width="1883" predecode="0"/>
+      <level height="941" preload="0" width="941" predecode="0"/>
+      <level height="470" preload="1" width="470" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="91.2032">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
+    </view>
+    <userdata latitude="23.97517379" author="James Lee" nodeid="node20" comment="" title="南京街廓" datetime="2024/10/22 12:26" tags="290|EGO|Mos|南京街廓" longitude="121.60730932" customnodeid="" copyright="jp-image.space" info="" source="" heading="91.2032" description="南京街290巷"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label borderradius="1" backgroundalpha="1" bordercolor="0x000000" enabled="1" textalpha="1" height="20" textcolor="0x000000" width="180" wordwrap="1" borderalpha="1" background="1" backgroundcolor="0xffffff" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot description="" skinid="ht_node_1" distance="27.3606" title="南京街廓" url="{node24}" pan="61.5997" id="Point01" target="$fwd" tilt="0"/>
+      <hotspot description="" skinid="ht_node_1" distance="8.17186" title="南京街廓" url="{node18}" pan="-54.5785" id="Point02" target="$fwd" tilt="0"/>
+      <hotspot description="" skinid="ht_node_1" distance="90.4454" title="香榭大道自由街" url="{node26}" pan="146.183" id="Point03" target="$fwd" tilt="0"/>
+      <hotspot tilt="9.68" description="" target="" skinid="ht_image" id="Point04" title="" url="images/JMS_1212.jpg" pan="-109.84"/>
+      <hotspot tilt="1.81" description="" target="" skinid="ht_image" id="Point05" title="" url="images/MOS-15.jpg" pan="-22.45"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" blendcolor="0x000000" blendtime="1" zoomafteroutfov="40" zoomout="0" zoomfov="40" zoomafterinfov="140" softedge="0" delay="none" zoomspeed="2" zoomoutpause="1" zoomin="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control invertcontrol="1" contextprojections="0" dblclickfullscreen="0" lockedkeyboard="0" hideabout="0" simulatemass="1" sensitivity="8" rubberband="0" invertwheel="0" zoomcentercursor="1" contextvr="1" lockedmouse="0" lockedwheel="0" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node18">
+    <input levelbias="0.400" height="2457" leveltilesize="510" levelingroll="0" levelingpitch="0" width="2457" overlap="1" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level height="2457" preload="0" width="2457" predecode="0"/>
+      <level height="1228" preload="0" width="1228" predecode="0"/>
+      <level height="614" preload="0" width="614" predecode="0"/>
+      <level height="307" preload="1" width="307" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-94.1496">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
+    </view>
+    <userdata latitude="23.97511302" author="James Lee" nodeid="node18" comment="" title="南京街廓" datetime="2024/10/22 12:22" tags="EGO|Mos|南京街廓" longitude="121.60735455" customnodeid="" copyright="jp-image.space" info="" source="" heading="-94.1496" description="南京街290巷"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label borderradius="1" backgroundalpha="1" bordercolor="0x000000" enabled="1" textalpha="1" height="20" textcolor="0x000000" width="180" wordwrap="1" borderalpha="1" background="1" backgroundcolor="0xffffff" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot description="" skinid="ht_node_1" distance="31.4256" title="南京街廓" url="{node17}" pan="-239.17" id="Point02" target="" tilt="2.19"/>
+      <hotspot description="" skinid="ht_node_1" distance="8.17186" title="南京街廓" url="{node20}" pan="-59.9313" id="Point01" target="$fwd" tilt="0"/>
+      <hotspot tilt="10.13" description="" target="" skinid="ht_image" id="Point03" title="" url="images/JMS_4959.jpg" pan="-102.96"/>
+      <hotspot tilt="1.65" description="" target="" skinid="ht_image" id="Point04" title="" url="images/290BTS.jpg" pan="-200.96"/>
+      <hotspot tilt="2.9" description="" target="" skinid="ht_image" id="Point05" title="" url="images/JMS_4985.jpg" pan="-180.57"/>
+      <hotspot tilt="2.18" description="" target="" skinid="ht_image" id="Point06" title="" url="images/MOS-17.jpg" pan="-271.98"/>
+      <hotspot tilt="1.7" description="" target="" skinid="ht_image" id="Point07" title="" url="images/JMS_1220.jpg" pan="-214.31"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" blendcolor="0x000000" blendtime="1" zoomafteroutfov="40" zoomout="0" zoomfov="40" zoomafterinfov="140" softedge="0" delay="none" zoomspeed="2" zoomoutpause="1" zoomin="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control invertcontrol="1" contextprojections="0" dblclickfullscreen="0" lockedkeyboard="0" hideabout="0" simulatemass="1" sensitivity="8" rubberband="0" invertwheel="0" zoomcentercursor="1" contextvr="1" lockedmouse="0" lockedwheel="0" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node17">
+    <input levelbias="0.400" height="2456" leveltilesize="510" levelingroll="0" levelingpitch="0" width="2456" overlap="1" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level height="2456" preload="0" width="2456" predecode="0"/>
+      <level height="1228" preload="0" width="1228" predecode="0"/>
+      <level height="614" preload="0" width="614" predecode="0"/>
+      <level height="307" preload="1" width="307" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="91.8468">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
+    </view>
+    <userdata latitude="23.97488206" author="James Lee" nodeid="node17" comment="" title="南京街廓" datetime="2024/10/22 12:20" tags="Mos|南京街廓" longitude="121.60753281" customnodeid="" copyright="jp-image.space" info="" source="" heading="91.8468" description="南京街290巷"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label borderradius="1" backgroundalpha="1" bordercolor="0x000000" enabled="1" textalpha="1" height="20" textcolor="0x000000" width="180" wordwrap="1" borderalpha="1" background="1" backgroundcolor="0xffffff" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot description="" skinid="ht_node_1" distance="31.4256" title="南京街廓" url="{node18}" pan="-229.94" id="Point01" target="" tilt="0.54"/>
+      <hotspot description="" skinid="ht_node_1" distance="12.4125" title="" url="{node27}" pan="-52.37" id="Point02" target="" tilt="0.44"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" blendcolor="0x000000" blendtime="1" zoomafteroutfov="40" zoomout="0" zoomfov="40" zoomafterinfov="140" softedge="0" delay="none" zoomspeed="2" zoomoutpause="1" zoomin="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control invertcontrol="1" contextprojections="0" dblclickfullscreen="0" lockedkeyboard="0" hideabout="0" simulatemass="1" sensitivity="8" rubberband="0" invertwheel="0" zoomcentercursor="1" contextvr="1" lockedmouse="0" lockedwheel="0" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node27">
+    <input levelbias="0.400" height="2458" leveltilesize="510" levelingroll="0" levelingpitch="0" width="2458" overlap="1" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level height="2458" preload="0" width="2458" predecode="0"/>
+      <level height="1229" preload="0" width="1229" predecode="0"/>
+      <level height="614" preload="0" width="614" predecode="0"/>
+      <level height="307" preload="1" width="307" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="120.32">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
+    </view>
+    <userdata latitude="23.97479090" author="James Lee" nodeid="node27" comment="" title="" datetime="2024/10/22 12:18" tags="Mos|290" longitude="121.60760332" customnodeid="" copyright="jp-image.space" info="" source="" heading="120.32" description=""/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label borderradius="1" backgroundalpha="1" bordercolor="0x000000" enabled="1" textalpha="1" height="20" textcolor="0x000000" width="180" wordwrap="1" borderalpha="1" background="1" backgroundcolor="0xffffff" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot description="" skinid="ht_node_1" distance="12.4125" title="南京街廓" url="{node17}" pan="-204.7" id="Point01" target="" tilt="-0.43"/>
+      <hotspot description="" skinid="ht_node_1" distance="78.3149" title="成功街" url="{node7}" pan="258.679" id="Point02" target="$fwd" tilt="0"/>
+      <hotspot tilt="4.14" description="" target="" skinid="ht_image" id="Point03" title="" url="images/MOS-22.jpg" pan="-349.99"/>
+      <hotspot tilt="3.23" description="" target="" skinid="ht_image" id="Point04" title="" url="images/29018-1225.jpg" pan="-64.48"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" blendcolor="0x000000" blendtime="1" zoomafteroutfov="40" zoomout="0" zoomfov="40" zoomafterinfov="140" softedge="0" delay="none" zoomspeed="2" zoomoutpause="1" zoomin="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control invertcontrol="1" contextprojections="0" dblclickfullscreen="0" lockedkeyboard="0" hideabout="0" simulatemass="1" sensitivity="8" rubberband="0" invertwheel="0" zoomcentercursor="1" contextvr="1" lockedmouse="0" lockedwheel="0" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node21">
+    <input levelbias="0.400" height="1888" leveltilesize="510" levelingroll="0" levelingpitch="0" width="1888" overlap="1" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level height="1888" preload="0" width="1888" predecode="0"/>
+      <level height="944" preload="0" width="944" predecode="0"/>
+      <level height="472" preload="1" width="472" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="213.73">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
+    </view>
+    <userdata latitude="23.97538773" author="James Lee" nodeid="node21" comment="" title="南京街廓" datetime="2024/10/22 12:32" tags="306|Mos|南京街廓" longitude="121.60755676" customnodeid="" copyright="jp-image.space" info="" source="" heading="213.73" description="南京商場-南京街306巷口"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label borderradius="1" backgroundalpha="1" bordercolor="0x000000" enabled="1" textalpha="1" height="20" textcolor="0x000000" width="180" wordwrap="1" borderalpha="1" background="1" backgroundcolor="0xffffff" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot description="" skinid="ht_node_1" distance="11.6242" title="南京街廓" url="{node24}" pan="303.73" id="Point01" target="$fwd" tilt="0"/>
+      <hotspot description="" skinid="ht_node_1" distance="51.6337" title="南京街廓" url="{node22}" pan="170.428" id="Point02" target="$fwd" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" blendcolor="0x000000" blendtime="1" zoomafteroutfov="40" zoomout="0" zoomfov="40" zoomafterinfov="140" softedge="0" delay="none" zoomspeed="2" zoomoutpause="1" zoomin="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control invertcontrol="1" contextprojections="0" dblclickfullscreen="0" lockedkeyboard="0" hideabout="0" simulatemass="1" sensitivity="8" rubberband="0" invertwheel="0" zoomcentercursor="1" contextvr="1" lockedmouse="0" lockedwheel="0" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node22">
+    <input levelbias="0.400" height="1888" leveltilesize="510" levelingroll="0" levelingpitch="0" width="1888" overlap="1" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level height="1888" preload="0" width="1888" predecode="0"/>
+      <level height="944" preload="0" width="944" predecode="0"/>
+      <level height="472" preload="1" width="472" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-182.934">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
+    </view>
+    <userdata latitude="23.97572566" author="James Lee" nodeid="node22" comment="" title="南京街廓" datetime="2024/10/22 12:36" tags="326c|Mos|南京街廓" longitude="121.60790531" customnodeid="" copyright="jp-image.space" info="" source="" heading="-182.934" description="南京街天祥牙醫旁"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label borderradius="1" backgroundalpha="1" bordercolor="0x000000" enabled="1" textalpha="1" height="20" textcolor="0x000000" width="180" wordwrap="1" borderalpha="1" background="1" backgroundcolor="0xffffff" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot description="" skinid="ht_node_1" distance="60.2035" title="南京街廓" url="{node24}" pan="-54.72" id="Point01" target="" tilt="2.55"/>
+      <hotspot description="" skinid="ht_node_1" distance="15.82" title="南京街廓" url="{node25}" pan="-227.95" id="Point02" target="" tilt="0.99"/>
+      <hotspot description="" skinid="ht_node_1" distance="51.6337" title="南京街廓" url="{node21}" pan="-46.2365" id="Point03" target="$fwd" tilt="0"/>
+      <hotspot tilt="1.91" description="" target="" skinid="ht_image" id="Point04" title="" url="images/318-1231.jpg" pan="-15.98"/>
+      <hotspot tilt="1.76" description="" target="" skinid="ht_image" id="Point05" title="" url="images/320-1232.jpg" pan="-359.28"/>
+      <hotspot tilt="13.04" description="" target="" skinid="ht_image" id="Point06" title="" url="images/243-1241.jpg" pan="-188.64"/>
+      <hotspot tilt="21.71" description="" target="" skinid="ht_image" id="Point07" title="" url="images/243-1248.jpg" pan="-106.06"/>
+      <hotspot tilt="5.06" description="" target="" skinid="ht_image" id="Point08" title="" url="images/JMS_1234.jpg" pan="-331.46"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" blendcolor="0x000000" blendtime="1" zoomafteroutfov="40" zoomout="0" zoomfov="40" zoomafterinfov="140" softedge="0" delay="none" zoomspeed="2" zoomoutpause="1" zoomin="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control invertcontrol="1" contextprojections="0" dblclickfullscreen="0" lockedkeyboard="0" hideabout="0" simulatemass="1" sensitivity="8" rubberband="0" invertwheel="0" zoomcentercursor="1" contextvr="1" lockedmouse="0" lockedwheel="0" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node25">
+    <input levelbias="0.400" height="1885" leveltilesize="510" levelingroll="0" levelingpitch="0" width="1885" overlap="1" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level height="1885" preload="0" width="1885" predecode="0"/>
+      <level height="942" preload="0" width="942" predecode="0"/>
+      <level height="471" preload="1" width="471" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="125.492">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
+    </view>
+    <userdata latitude="23.97584478" author="James Lee" nodeid="node25" comment="" title="南京街廓" datetime="2024/10/22 12:38" tags="253|Mos|南京街廓" longitude="121.60799045" customnodeid="" copyright="jp-image.space" info="" source="" heading="125.492" description=""/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label borderradius="1" backgroundalpha="1" bordercolor="0x000000" enabled="1" textalpha="1" height="20" textcolor="0x000000" width="180" wordwrap="1" borderalpha="1" background="1" backgroundcolor="0xffffff" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot description="" skinid="ht_node_1" distance="15.82" title="南京街廓" url="{node22}" pan="-89.3" id="Point01" target="" tilt="-0.31"/>
+      <hotspot description="" skinid="ht_node_1" distance="8.99805" title="南京街廓" url="{node23}" pan="-270.7" id="Point02" target="" tilt="-0.04"/>
+      <hotspot tilt="2.42" description="" target="" skinid="ht_image" id="Point03" title="" url="images/346-4921.jpg" pan="-304.12"/>
+      <hotspot tilt="3.01" description="" target="" skinid="ht_image" id="Point04" title="" url="images/JMS_1307.jpg" pan="-322.1"/>
+      <hotspot tilt="6.78" description="" target="" skinid="ht_image" id="Point05" title="" url="images/JMS_1306.jpg" pan="-115.1"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" blendcolor="0x000000" blendtime="1" zoomafteroutfov="40" zoomout="0" zoomfov="40" zoomafterinfov="140" softedge="0" delay="none" zoomspeed="2" zoomoutpause="1" zoomin="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control invertcontrol="1" contextprojections="0" dblclickfullscreen="0" lockedkeyboard="0" hideabout="0" simulatemass="1" sensitivity="8" rubberband="0" invertwheel="0" zoomcentercursor="1" contextvr="1" lockedmouse="0" lockedwheel="0" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node23">
+    <input levelbias="0.400" height="1887" leveltilesize="510" levelingroll="0" levelingpitch="0" width="1887" overlap="1" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level height="1887" preload="0" width="1887" predecode="0"/>
+      <level height="943" preload="0" width="943" predecode="0"/>
+      <level height="471" preload="1" width="471" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="130.678">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
+    </view>
+    <userdata latitude="23.97591285" author="James Lee" nodeid="node23" comment="" title="南京街廓" datetime="2024/10/22 12:39" tags="Mos|南京街廓" longitude="121.60803834" customnodeid="" copyright="jp-image.space" info="" source="" heading="130.678" description="南京街光復街口"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label borderradius="1" backgroundalpha="1" bordercolor="0x000000" enabled="1" textalpha="1" height="20" textcolor="0x000000" width="180" wordwrap="1" borderalpha="1" background="1" backgroundcolor="0xffffff" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot description="" skinid="ht_node_1" distance="8.99805" title="南京街廓" url="{node25}" pan="-82.62" id="Point01" target="" tilt="-0.77"/>
+      <hotspot description="" skinid="ht_node_1" distance="107.642" title="成功街光復街口" url="{node12}" pan="-5.54338" id="Point02" target="$fwd" tilt="0"/>
+      <hotspot tilt="2.26" description="" target="" skinid="ht_image" id="Point03" title="" url="images/346-4921.jpg" pan="-11.85"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" blendcolor="0x000000" blendtime="1" zoomafteroutfov="40" zoomout="0" zoomfov="40" zoomafterinfov="140" softedge="0" delay="none" zoomspeed="2" zoomoutpause="1" zoomin="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control invertcontrol="1" contextprojections="0" dblclickfullscreen="0" lockedkeyboard="0" hideabout="0" simulatemass="1" sensitivity="8" rubberband="0" invertwheel="0" zoomcentercursor="1" contextvr="1" lockedmouse="0" lockedwheel="0" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node26">
+    <input levelbias="0.400" height="2338" leveltilesize="510" levelingroll="0" levelingpitch="0" width="2338" overlap="1" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level height="2338" preload="0" width="2338" predecode="0"/>
+      <level height="1169" preload="0" width="1169" predecode="0"/>
+      <level height="584" preload="0" width="584" predecode="0"/>
+      <level height="292" preload="1" width="292" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="125.044">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
+    </view>
+    <userdata latitude="23.97564057" author="James Lee" nodeid="node26" comment="" title="香榭大道自由街" datetime="2024/10/22 13:31" tags="62|Mos|自由中華路" longitude="121.60658029" customnodeid="" copyright="jp-image.space" info="" source="" heading="125.044" description=""/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label borderradius="1" backgroundalpha="1" bordercolor="0x000000" enabled="1" textalpha="1" height="20" textcolor="0x000000" width="180" wordwrap="1" borderalpha="1" background="1" backgroundcolor="0xffffff" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot description="" skinid="ht_node_1" distance="90.4454" title="南京街廓" url="{node20}" pan="0.0238793" id="Point01" target="$fwd" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" blendcolor="0x000000" blendtime="1" zoomafteroutfov="40" zoomout="0" zoomfov="40" zoomafterinfov="140" softedge="0" delay="none" zoomspeed="2" zoomoutpause="1" zoomin="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control invertcontrol="1" contextprojections="0" dblclickfullscreen="0" lockedkeyboard="0" hideabout="0" simulatemass="1" sensitivity="8" rubberband="0" invertwheel="0" zoomcentercursor="1" contextvr="1" lockedmouse="0" lockedwheel="0" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1"/>
+  </panorama>
+  <masternode>
+    <userdata tags="" copyright="" author="" comment="" title="MOS Taiwan 2024" description=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+  <map type="web" index="0" title="" googlecustomstylecode="" mapstyle="streets" mapprovider="openstreetmap" id="Map01" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" mapmaxzoom="18"/>
+</tour>
