@@ -9,7 +9,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="60.0698">
-      <start fov="121.97" tilt="1.58" pan="-16.69" projection="4"/>
+      <start fov="121.97" tilt="-0.86" pan="-13.92" projection="4"/>
       <flyin fov="170" tilt="-90" pan="0" projection="9"/>
       <min fovpixel="0.5" tilt="-90" pan="0"/>
       <max fov="100" tilt="90" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
@@ -39,7 +39,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="-38.8744">
-      <start fov="121.97" tilt="2.51" pan="1.2" projection="4"/>
+      <start fov="121.97" tilt="1.56" pan="1.79" projection="4"/>
       <flyin fov="170" tilt="-90" pan="0" projection="9"/>
       <min fovpixel="0.5" tilt="-90" pan="0"/>
       <max fov="100" tilt="90" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
@@ -67,7 +67,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="-12.1118">
-      <start fov="121.97" tilt="1.2" pan="22.55" projection="4"/>
+      <start fov="121.97" tilt="-1.45" pan="23.28" projection="4"/>
       <flyin fov="170" tilt="-90" pan="0" projection="9"/>
       <min fovpixel="0.5" tilt="-90" pan="0"/>
       <max fov="100" tilt="90" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
@@ -77,7 +77,7 @@
       <label bordercolor="0x000000" wordwrap="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" background="1" enabled="1" borderalpha="1" border="1" borderradius="1" width="180" backgroundalpha="1"/>
       <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
       <hotspot skinid="ht_node" url="{node5}" pan="-78.461" target="$fwd" id="Point02" title="成功街" description="" tilt="0" distance="66.0863"/>
-      <hotspot skinid="ht_node" url="{node1}" pan="-249.86" target="" id="Point03" title="仁愛街54巷3號" description="" tilt="-1.5" distance="12.536"/>
+      <hotspot skinid="ht_node" url="{node1}" pan="-249.86" target="$fwd" id="Point03" title="仁愛街54巷3號" description="" tilt="-1.5" distance="12.536"/>
       <hotspot title="Muiti Artists" description="" skinid="ht_zion" tilt="24.75" pan="-305.76" url="" target="" id="Point01"/>
     </hotspots>
     <media/>
@@ -96,7 +96,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="4.06646">
-      <start fov="121.97" tilt="-0.63" pan="-178.24" projection="4"/>
+      <start fov="121.97" tilt="-2.69" pan="-174.62" projection="4"/>
       <flyin fov="170" tilt="-90" pan="0" projection="9"/>
       <min fovpixel="0.5" tilt="-90" pan="0"/>
       <max fov="100" tilt="90" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
@@ -109,7 +109,7 @@
       <hotspot skinid="ht_node_1" url="{node23}" pan="41.2938" target="$fwd" id="Point03" title="南京街257號" description="" tilt="0" distance="114.95"/>
       <hotspot title="" description="" skinid="ht_image" tilt="0.97" pan="-59" url="images/JMS_4901.jpg" target="" id="Point04"/>
       <hotspot title="" description="" skinid="ht_image" tilt="3.53" pan="-176.27" url="images/13-2 .jpg" target="" id="Point05"/>
-      <hotspot skinid="ht_node" url="{node10}" pan="-37.54" target="" id="Point01" title="成功街光復街口" description="" tilt="2.38" distance="16.1877"/>
+      <hotspot skinid="ht_node" url="{node10}" pan="-37.54" target="$fwd" id="Point01" title="成功街光復街口" description="" tilt="2.38" distance="16.1877"/>
     </hotspots>
     <media/>
     <transition zoomafterinfov="140" zoomafteroutfov="40" blendtime="1" delay="none" blendcolor="0x000000" zoomfov="40" softedge="0" zoomin="0" enabled="1" type="crossdissolve" zoomout="0" zoomoutpause="1" zoomspeed="2"/>
@@ -127,7 +127,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="-32.5951">
-      <start fov="121.97" tilt="-2.41" pan="7.53" projection="4"/>
+      <start fov="121.97" tilt="0.89" pan="1.28" projection="4"/>
       <flyin fov="170" tilt="-90" pan="0" projection="9"/>
       <min fovpixel="0.5" tilt="-90" pan="0"/>
       <max fov="100" tilt="90" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
@@ -136,7 +136,7 @@
     <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
       <label bordercolor="0x000000" wordwrap="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" background="1" enabled="1" borderalpha="1" border="1" borderradius="1" width="180" backgroundalpha="1"/>
       <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
-      <hotspot skinid="ht_node" url="{node11}" pan="-86.61" target="" id="Point02" title="成功街光復街口" description="" tilt="3.03" distance="16.0303"/>
+      <hotspot skinid="ht_node" url="{node11}" pan="-86.61" target="$fwd" id="Point02" title="成功街光復街口" description="" tilt="3.03" distance="16.0303"/>
       <hotspot skinid="ht_node" url="{node12}" pan="93.5073" target="$fwd" id="Point01" title="成功街光復街口" description="" tilt="0" distance="16.1877"/>
     </hotspots>
     <media/>
@@ -155,7 +155,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="13.9955">
-      <start fov="121.97" tilt="-5.37" pan="47.58" projection="4"/>
+      <start fov="121.97" tilt="0.89" pan="47.87" projection="4"/>
       <flyin fov="170" tilt="-90" pan="0" projection="9"/>
       <min fovpixel="0.5" tilt="-90" pan="0"/>
       <max fov="100" tilt="90" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
@@ -183,7 +183,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="-29.8946">
-      <start fov="121.97" tilt="19.02" pan="-175.08" projection="4"/>
+      <start fov="121.97" tilt="20.49" pan="-170.97" projection="4"/>
       <flyin fov="170" tilt="-90" pan="0" projection="9"/>
       <min fovpixel="0.5" tilt="-90" pan="0"/>
       <max fov="100" tilt="90" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
@@ -194,7 +194,6 @@
       <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
       <hotspot skinid="ht_node" url="{node6}" pan="-102.369" target="$fwd" id="Point01" title="成功街" description="" tilt="0" distance="48.476"/>
       <hotspot skinid="ht_node" url="{node2}" pan="83.7559" target="$fwd" id="Point03" title="仁愛街54巷3號" description="" tilt="0" distance="66.0863"/>
-      <hotspot skinid="ht_node" url="{node31}" pan="15.2483" target="$fwd" id="Point04" title="南京街忠孝街路口" description="" tilt="0" distance="55.6621"/>
       <hotspot skinid="ht_node" url="{node35}" pan="127.258" target="$fwd" id="Point02" title="" description="" tilt="0" distance="56.3309"/>
     </hotspots>
     <media/>
@@ -213,7 +212,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="44.1693">
-      <start fov="121.97" tilt="11.08" pan="-11.25" projection="4"/>
+      <start fov="121.97" tilt="1.18" pan="-10.32" projection="4"/>
       <flyin fov="170" tilt="-90" pan="0" projection="9"/>
       <min fovpixel="0.5" tilt="-90" pan="0"/>
       <max fov="100" tilt="90" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
@@ -241,7 +240,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="-131.442">
-      <start fov="121.97" tilt="11.17" pan="-4.59" projection="4"/>
+      <start fov="121.97" tilt="0.31" pan="-5.3" projection="4"/>
       <flyin fov="170" tilt="-90" pan="0" projection="9"/>
       <min fovpixel="0.5" tilt="-90" pan="0"/>
       <max fov="100" tilt="90" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
@@ -270,7 +269,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="-202.192">
-      <start fov="121.97" tilt="4.2" pan="12.69" projection="4"/>
+      <start fov="121.97" tilt="0.62" pan="10.7" projection="4"/>
       <flyin fov="170" tilt="-90" pan="0" projection="9"/>
       <min fovpixel="0.5" tilt="-90" pan="0"/>
       <max fov="100" tilt="90" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
@@ -298,7 +297,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="302.966">
-      <start fov="121.97" tilt="-0.65" pan="-56.06" projection="4"/>
+      <start fov="121.97" tilt="0.91" pan="-78.75" projection="4"/>
       <flyin fov="170" tilt="-90" pan="0" projection="9"/>
       <min fovpixel="0.5" tilt="-90" pan="0"/>
       <max fov="100" tilt="90" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
@@ -327,7 +326,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="-214.129">
-      <start fov="121.97" tilt="0.17" pan="-1.8" projection="4"/>
+      <start fov="100" tilt="0" pan="-180" projection="4"/>
       <flyin fov="170" tilt="-90" pan="0" projection="9"/>
       <min fovpixel="0.5" tilt="-90" pan="0"/>
       <max fov="100" tilt="90" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
@@ -353,7 +352,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="146.567">
-      <start fov="121.97" tilt="0.49" pan="2.69" projection="4"/>
+      <start fov="121.97" tilt="1.07" pan="1.94" projection="4"/>
       <flyin fov="170" tilt="-90" pan="0" projection="9"/>
       <min fovpixel="0.5" tilt="-90" pan="0"/>
       <max fov="100" tilt="90" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
@@ -365,7 +364,6 @@
       <hotspot skinid="ht_node" url="{node16}" pan="65.3511" target="$fwd" id="Point01" title="廣東街296號前" description="" tilt="0" distance="156.853"/>
       <hotspot skinid="ht_node" url="{node1}" pan="184.401" target="$fwd" id="Point02" title="仁愛街54巷3號" description="" tilt="0" distance="128.213"/>
       <hotspot skinid="ht_node" url="{node13}" pan="92.0943" target="$fwd" id="Point04" title="福建街441號" description="" tilt="0" distance="279.832"/>
-      <hotspot skinid="ht_node" url="{node34}" pan="-6.09472" target="$fwd" id="Point03" title="一顆超好睡的俗頭" description="" tilt="0" distance="900.941"/>
     </hotspots>
     <media/>
     <transition zoomafterinfov="140" zoomafteroutfov="40" blendtime="1" delay="none" blendcolor="0x000000" zoomfov="40" softedge="0" zoomin="0" enabled="1" type="crossdissolve" zoomout="0" zoomoutpause="1" zoomspeed="2"/>
@@ -383,7 +381,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="247.119">
-      <start fov="121.97" tilt="20.31" pan="14.97" projection="4"/>
+      <start fov="121.97" tilt="21.8" pan="16.57" projection="4"/>
       <flyin fov="170" tilt="-90" pan="0" projection="9"/>
       <min fovpixel="0.5" tilt="-90" pan="0"/>
       <max fov="100" tilt="90" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
@@ -411,7 +409,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="-242.372">
-      <start fov="121.97" tilt="0.59" pan="-23.37" projection="4"/>
+      <start fov="121.97" tilt="-0.2" pan="-25.15" projection="4"/>
       <flyin fov="170" tilt="-90" pan="0" projection="9"/>
       <min fovpixel="0.5" tilt="-90" pan="0"/>
       <max fov="100" tilt="90" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
@@ -420,7 +418,7 @@
     <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
       <label bordercolor="0x000000" wordwrap="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" background="1" enabled="1" borderalpha="1" border="1" borderradius="1" width="180" backgroundalpha="1"/>
       <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
-      <hotspot skinid="ht_node" url="{node20}" pan="-92.85" target="" id="Point02" title="南京街290巷口" description="" tilt="3.05" distance="9.921"/>
+      <hotspot skinid="ht_node" url="{node20}" pan="-92.85" target="$fwd" id="Point02" title="南京街290巷口" description="" tilt="3.05" distance="9.921"/>
       <hotspot skinid="ht_node" url="{node21}" pan="-334.211" target="$fwd" id="Point01" title="南京街306巷口-南京商場" description="" tilt="1.17" distance="9.13394"/>
       <hotspot title="" description="" skinid="ht_image" tilt="1" pan="-65.55" url="images/298.jpg" target="" id="Point04"/>
       <hotspot skinid="ht_node" url="{node29}" pan="-295.946" target="$fwd" id="Point03" title="南京街博愛街口" description="" tilt="0" distance="57.5996"/>
@@ -443,7 +441,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="193.35">
-      <start fov="121.97" tilt="0.59" pan="52.35" projection="4"/>
+      <start fov="100" tilt="0" pan="0" projection="4"/>
       <flyin fov="170" tilt="-90" pan="0" projection="9"/>
       <min fovpixel="0.5" tilt="-90" pan="0"/>
       <max fov="100" tilt="90" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
@@ -474,7 +472,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="-94.1496">
-      <start fov="121.97" tilt="0.59" pan="124.85" projection="4"/>
+      <start fov="100" tilt="0" pan="0" projection="4"/>
       <flyin fov="170" tilt="-90" pan="0" projection="9"/>
       <min fovpixel="0.5" tilt="-90" pan="0"/>
       <max fov="100" tilt="90" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
@@ -483,7 +481,7 @@
     <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
       <label bordercolor="0x000000" wordwrap="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" background="1" enabled="1" borderalpha="1" border="1" borderradius="1" width="180" backgroundalpha="1"/>
       <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
-      <hotspot skinid="ht_node" url="{node17}" pan="-239.17" target="" id="Point02" title="南京街290巷9號" description="" tilt="2.19" distance="31.3034"/>
+      <hotspot skinid="ht_node" url="{node17}" pan="-239.17" target="$fwd" id="Point02" title="南京街290巷9號" description="" tilt="2.19" distance="31.3034"/>
       <hotspot skinid="ht_node" url="{node20}" pan="-57.2572" target="$fwd" id="Point01" title="南京街290巷口" description="" tilt="0" distance="9.47104"/>
       <hotspot title="" description="" skinid="ht_image" tilt="-1.2" pan="-119.54" url="images/JMS_4959.jpg" target="" id="Point03"/>
       <hotspot title="" description="" skinid="ht_image" tilt="-4.81" pan="-202.48" url="images/290BTS.jpg" target="" id="Point04"/>
@@ -508,7 +506,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="91.8468">
-      <start fov="121.97" tilt="0.59" pan="-49.16" projection="4"/>
+      <start fov="121.97" tilt="-0.19" pan="-30.06" projection="4"/>
       <flyin fov="170" tilt="-90" pan="0" projection="9"/>
       <min fovpixel="0.5" tilt="-90" pan="0"/>
       <max fov="100" tilt="90" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
@@ -517,8 +515,8 @@
     <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
       <label bordercolor="0x000000" wordwrap="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" background="1" enabled="1" borderalpha="1" border="1" borderradius="1" width="180" backgroundalpha="1"/>
       <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
-      <hotspot skinid="ht_node" url="{node18}" pan="-229.94" target="" id="Point01" title="南京街290巷1號" description="" tilt="0.54" distance="31.3034"/>
-      <hotspot skinid="ht_node" url="{node27}" pan="-52.37" target="" id="Point02" title="南京街290巷16號前" description="" tilt="0.44" distance="13.7433"/>
+      <hotspot skinid="ht_node" url="{node18}" pan="-229.94" target="$fwd" id="Point01" title="南京街290巷1號" description="" tilt="0.54" distance="31.3034"/>
+      <hotspot skinid="ht_node" url="{node27}" pan="-52.37" target="$fwd" id="Point02" title="南京街290巷16號前" description="" tilt="0.44" distance="13.7433"/>
     </hotspots>
     <media/>
     <transition zoomafterinfov="140" zoomafteroutfov="40" blendtime="1" delay="none" blendcolor="0x000000" zoomfov="40" softedge="0" zoomin="0" enabled="1" type="crossdissolve" zoomout="0" zoomoutpause="1" zoomspeed="2"/>
@@ -536,7 +534,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="121.492">
-      <start fov="121.97" tilt="-1.23" pan="6.34" projection="4"/>
+      <start fov="121.97" tilt="-0.2" pan="-6.96" projection="4"/>
       <flyin fov="170" tilt="-90" pan="0" projection="9"/>
       <min fovpixel="0.5" tilt="-90" pan="0"/>
       <max fov="100" tilt="90" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
@@ -545,7 +543,7 @@
     <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
       <label bordercolor="0x000000" wordwrap="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" background="1" enabled="1" borderalpha="1" border="1" borderradius="1" width="180" backgroundalpha="1"/>
       <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
-      <hotspot skinid="ht_node" url="{node17}" pan="-204.7" target="" id="Point01" title="南京街290巷9號" description="" tilt="-0.43" distance="13.7433"/>
+      <hotspot skinid="ht_node" url="{node17}" pan="-204.7" target="$fwd" id="Point01" title="南京街290巷9號" description="" tilt="-0.43" distance="13.7433"/>
       <hotspot skinid="ht_node" url="{node7}" pan="257.704" target="$fwd" id="Point02" title="成功街" description="" tilt="0" distance="80.319"/>
       <hotspot title="" description="" skinid="ht_image" tilt="4.14" pan="-349.99" url="images/MOS-22.jpg" target="" id="Point03"/>
       <hotspot title="" description="" skinid="ht_image" tilt="3.23" pan="-64.48" url="images/29018-1225.jpg" target="" id="Point04"/>
@@ -567,7 +565,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="215.186">
-      <start fov="121.97" tilt="-2.03" pan="-17.8" projection="4"/>
+      <start fov="121.97" tilt="0.59" pan="-17.54" projection="4"/>
       <flyin fov="170" tilt="-90" pan="0" projection="9"/>
       <min fovpixel="0.5" tilt="-90" pan="0"/>
       <max fov="100" tilt="90" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
@@ -593,7 +591,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="-200.436">
-      <start fov="121.97" tilt="0.27" pan="-136.83" projection="4"/>
+      <start fov="121.97" tilt="8.17" pan="-137.34" projection="4"/>
       <flyin fov="170" tilt="-90" pan="0" projection="9"/>
       <min fovpixel="0.5" tilt="-90" pan="0"/>
       <max fov="100" tilt="90" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
@@ -602,7 +600,7 @@
     <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
       <label bordercolor="0x000000" wordwrap="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" background="1" enabled="1" borderalpha="1" border="1" borderradius="1" width="180" backgroundalpha="1"/>
       <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
-      <hotspot skinid="ht_node" url="{node25}" pan="-227.95" target="" id="Point02" title="南京街253號" description="" tilt="0.99" distance="28.6046"/>
+      <hotspot skinid="ht_node" url="{node25}" pan="-227.95" target="$fwd" id="Point02" title="南京街253號" description="" tilt="0.99" distance="28.6046"/>
       <hotspot title="" description="" skinid="ht_image" tilt="1.91" pan="-15.98" url="images/318-1231.jpg" target="" id="Point04"/>
       <hotspot title="" description="" skinid="ht_image" tilt="1.76" pan="-359.28" url="images/320-1232.jpg" target="" id="Point05"/>
       <hotspot title="" description="" skinid="ht_image" tilt="13.04" pan="-188.64" url="images/243-1241.jpg" target="" id="Point06"/>
@@ -625,7 +623,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="21.3128">
-      <start fov="121.97" tilt="0.27" pan="84.92" projection="4"/>
+      <start fov="121.97" tilt="-1.07" pan="74.07" projection="4"/>
       <flyin fov="170" tilt="-90" pan="0" projection="9"/>
       <min fovpixel="0.5" tilt="-90" pan="0"/>
       <max fov="100" tilt="90" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
@@ -653,7 +651,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="117.48">
-      <start fov="121.97" tilt="-3.87" pan="2.02" projection="4"/>
+      <start fov="121.97" tilt="-1.59" pan="-0.29" projection="4"/>
       <flyin fov="170" tilt="-90" pan="0" projection="9"/>
       <min fovpixel="0.5" tilt="-90" pan="0"/>
       <max fov="100" tilt="90" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
@@ -662,8 +660,8 @@
     <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
       <label bordercolor="0x000000" wordwrap="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" background="1" enabled="1" borderalpha="1" border="1" borderradius="1" width="180" backgroundalpha="1"/>
       <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
-      <hotspot skinid="ht_node" url="{node22}" pan="-89.3" target="" id="Point01" title="南京街243號" description="" tilt="-0.31" distance="28.6046"/>
-      <hotspot skinid="ht_node" url="{node23}" pan="-270.7" target="" id="Point02" title="南京街257號" description="" tilt="-0.04" distance="15.7419"/>
+      <hotspot skinid="ht_node" url="{node22}" pan="-89.3" target="$fwd" id="Point01" title="南京街243號" description="" tilt="-0.31" distance="28.6046"/>
+      <hotspot skinid="ht_node" url="{node23}" pan="-270.7" target="$fwd" id="Point02" title="南京街257號" description="" tilt="-0.04" distance="15.7419"/>
       <hotspot title="" description="" skinid="ht_image" tilt="2.42" pan="-304.12" url="images/346-4921.jpg" target="" id="Point03"/>
       <hotspot title="" description="" skinid="ht_image" tilt="3.01" pan="-322.1" url="images/JMS_1307.jpg" target="" id="Point04"/>
       <hotspot title="" description="" skinid="ht_image" tilt="6.78" pan="-115.1" url="images/JMS_1306.jpg" target="" id="Point05"/>
@@ -683,7 +681,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="130.678">
-      <start fov="121.97" tilt="0.17" pan="6.11" projection="4"/>
+      <start fov="121.97" tilt="3.79" pan="8.83" projection="4"/>
       <flyin fov="170" tilt="-90" pan="0" projection="9"/>
       <min fovpixel="0.5" tilt="-90" pan="0"/>
       <max fov="100" tilt="90" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
@@ -692,7 +690,7 @@
     <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
       <label bordercolor="0x000000" wordwrap="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" background="1" enabled="1" borderalpha="1" border="1" borderradius="1" width="180" backgroundalpha="1"/>
       <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
-      <hotspot skinid="ht_node" url="{node25}" pan="-82.62" target="" id="Point01" title="南京街253號" description="" tilt="-0.77" distance="15.7419"/>
+      <hotspot skinid="ht_node" url="{node25}" pan="-82.62" target="$fwd" id="Point01" title="南京街253號" description="" tilt="-0.77" distance="15.7419"/>
       <hotspot skinid="ht_node" url="{node12}" pan="-12.0943" target="$fwd" id="Point02" title="成功街光復街口" description="" tilt="0" distance="114.95"/>
       <hotspot title="" description="" skinid="ht_image" tilt="2.26" pan="-11.85" url="images/346-4921.jpg" target="" id="Point03"/>
     </hotspots>
@@ -712,7 +710,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="125.044">
-      <start fov="121.97" tilt="-1.44" pan="65.7" projection="4"/>
+      <start fov="100" tilt="0" pan="0" projection="4"/>
       <flyin fov="170" tilt="-90" pan="0" projection="9"/>
       <min fovpixel="0.5" tilt="-90" pan="0"/>
       <max fov="100" tilt="90" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
@@ -739,7 +737,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="44.1966">
-      <start fov="121.97" tilt="-1.44" pan="-15.15" projection="4"/>
+      <start fov="121.97" tilt="-0.3" pan="-13.03" projection="4"/>
       <flyin fov="170" tilt="-90" pan="0" projection="9"/>
       <min fovpixel="0.5" tilt="-90" pan="0"/>
       <max fov="100" tilt="90" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
@@ -765,7 +763,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="138.219">
-      <start fov="121.97" tilt="-2.64" pan="-2.96" projection="4"/>
+      <start fov="121.97" tilt="-2.47" pan="-4.42" projection="4"/>
       <flyin fov="170" tilt="-90" pan="0" projection="9"/>
       <min fovpixel="0.5" tilt="-90" pan="0"/>
       <max fov="100" tilt="90" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
@@ -774,63 +772,8 @@
     <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
       <label bordercolor="0x000000" wordwrap="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" background="1" enabled="1" borderalpha="1" border="1" borderradius="1" width="180" backgroundalpha="1"/>
       <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
-      <hotspot skinid="ht_node" url="{node31}" pan="309.565" target="$fwd" id="Point01" title="南京街忠孝街路口" description="" tilt="0" distance="6.39424"/>
       <hotspot skinid="ht_node" url="{node24}" pan="84.9411" target="$fwd" id="Point02" title="南京街南京郵局" description="" tilt="0" distance="147.555"/>
       <hotspot skinid="ht_node" url="{node36}" pan="264.797" target="$fwd" id="Point03" title="南京街192號" description="" tilt="0" distance="101.637"/>
-    </hotspots>
-    <media/>
-    <transition zoomafterinfov="140" zoomafteroutfov="40" blendtime="1" delay="none" blendcolor="0x000000" zoomfov="40" softedge="0" zoomin="0" enabled="1" type="crossdissolve" zoomout="0" zoomoutpause="1" zoomspeed="2"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control lockedmouse="0" lockedwheel="0" invertwheel="0" zoomcentercursor="1" hideabout="1" contextprojections="0" sensitivity="8" simulatemass="1" rubberband="0" contextvr="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboard="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1">
-      <menulink text="Created by JP Image Studio" url="https://oring-brother.com"/>
-    </control>
-  </panorama>
-  <panorama id="node31" hideabout="1">
-    <input height="1898" levelbiashidpi="1.000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node31/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1898" leveltilesize="510" overlap="1" levelingpitch="0">
-      <level preload="0" predecode="0" height="1898" width="1898"/>
-      <level preload="0" predecode="0" height="949" width="949"/>
-      <level preload="1" predecode="1" height="474" width="474"/>
-      <preview color="0x808080" strip="1"/>
-    </input>
-    <view fovmode="2" pannorth="54.0031">
-      <start fov="100" tilt="0" pan="-180" projection="4"/>
-      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
-      <min fovpixel="0.5" tilt="-90" pan="0"/>
-      <max fov="100" tilt="90" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
-    </view>
-    <userdata tags="JPG|MOS" longitude="121.60617865" heading="54.0031" latitude="23.97441343" author="James Lee" info="" title="南京街忠孝街路口" description="王將壽司" copyright="jp-image.space" customnodeid="" comment="" nodeid="node31" datetime="2024/10/29 8:20" source=""/>
-    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
-      <label bordercolor="0x000000" wordwrap="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" background="1" enabled="1" borderalpha="1" border="1" borderradius="1" width="180" backgroundalpha="1"/>
-      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
-      <hotspot skinid="ht_node" url="{node32}" pan="45.3487" target="$fwd" id="Point01" title="南京街232號" description="" tilt="0" distance="6.39424"/>
-      <hotspot skinid="ht_node" url="{node5}" pan="-80.8539" target="$fwd" id="Point02" title="成功街" description="" tilt="0" distance="55.6621"/>
-    </hotspots>
-    <media/>
-    <transition zoomafterinfov="140" zoomafteroutfov="40" blendtime="1" delay="none" blendcolor="0x000000" zoomfov="40" softedge="0" zoomin="0" enabled="1" type="crossdissolve" zoomout="0" zoomoutpause="1" zoomspeed="2"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control lockedmouse="0" lockedwheel="0" invertwheel="0" zoomcentercursor="1" hideabout="1" contextprojections="0" sensitivity="8" simulatemass="1" rubberband="0" contextvr="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboard="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1">
-      <menulink text="Created by JP Image Studio" url="https://oring-brother.com"/>
-    </control>
-  </panorama>
-  <panorama id="node34" hideabout="1">
-    <input height="3654" levelbiashidpi="1.000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node34/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3654" leveltilesize="510" overlap="1" levelingpitch="0">
-      <level preload="0" predecode="0" height="3654" width="3654"/>
-      <level preload="0" predecode="0" height="1827" width="1827"/>
-      <level preload="0" predecode="0" height="913" width="913"/>
-      <level preload="1" predecode="1" height="456" width="456"/>
-      <preview color="0x808080" strip="1"/>
-    </input>
-    <view fovmode="2" pannorth="92.5324">
-      <start fov="100" tilt="0" pan="-180" projection="4"/>
-      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
-      <min fovpixel="0.5" tilt="-90" pan="0"/>
-      <max fov="100" tilt="90" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
-    </view>
-    <userdata tags="JPG|MOS" longitude="121.610723" heading="92.5324" latitude="23.965641" author="James Lee" info="" title="一顆超好睡的俗頭" description="太平洋公園正門口直直走到海邊，有人躺在上面的那個大床" copyright="jp-image.space" customnodeid="" comment="" nodeid="node34" datetime="2024/10/28 9:28" source=""/>
-    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
-      <label bordercolor="0x000000" wordwrap="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" background="1" enabled="1" borderalpha="1" border="1" borderradius="1" width="180" backgroundalpha="1"/>
-      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
-      <hotspot skinid="ht_node" url="{node15}" pan="119.869" target="$fwd" id="Point01" title="福建街360號前" description="" tilt="0" distance="900.941"/>
     </hotspots>
     <media/>
     <transition zoomafterinfov="140" zoomafteroutfov="40" blendtime="1" delay="none" blendcolor="0x000000" zoomfov="40" softedge="0" zoomin="0" enabled="1" type="crossdissolve" zoomout="0" zoomoutpause="1" zoomspeed="2"/>
@@ -847,7 +790,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="-38.8751">
-      <start fov="100" tilt="0" pan="-180" projection="4"/>
+      <start fov="121.97" tilt="0.23" pan="-2.65" projection="4"/>
       <flyin fov="170" tilt="-90" pan="0" projection="9"/>
       <min fovpixel="0.5" tilt="-90" pan="0"/>
       <max fov="100" tilt="90" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
@@ -874,7 +817,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="-99.052">
-      <start fov="100" tilt="0" pan="-180" projection="4"/>
+      <start fov="121.97" tilt="-0.87" pan="26.25" projection="4"/>
       <flyin fov="170" tilt="-90" pan="0" projection="9"/>
       <min fovpixel="0.5" tilt="-90" pan="0"/>
       <max fov="100" tilt="90" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
