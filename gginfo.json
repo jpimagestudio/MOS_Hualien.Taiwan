@@ -7,6 +7,7 @@
 			"3rdparty/leaflet/leaflet.js"
 		],
 		"css": [
+			"font_styles.css",
 			"3rdparty/leaflet/leaflet.css"
 		]
 	},
@@ -17,7 +18,7 @@
 	"player": {
 		"js": "pano2vr_player.js"
 	},
-	"creationdate": "2024-10-28T11:43:03.805Z",
+	"creationdate": "2024-11-01T09:59:46.085Z",
 	"configuration": "pano.xml",
 	"preview": {
 		"img": "preview.jpg",

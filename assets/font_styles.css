@@ -1,0 +1,46 @@
+
+
+@font-face {
+    font-family: 'gilroybold';
+    src: url('gilroy-bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'gilroylight';
+    src: url('gilroy-light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'gilroysemibold';
+    src: url('gilroy-semibold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.bt_lobby{ 
+            font-family: "gilroybold";
+            font-size: 19px;
+	letter-spacing: -1px;	
+            }
+            
+.info_body{             
+            font-family: "gilroylight";
+            font-size: 15px;
+            line-height: 170%;
+            }
+            
+.info_header{           
+            font-family: "gilroysemibold";
+            font-size: 60px;
+            line-height: 100%;
+            }
+            
+
+
