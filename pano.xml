@@ -20,7 +20,7 @@
       <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
       <hotspot skinid="ht_node" url="{node12}" pan="27.0584" target="$fwd" id="Point01" title="成功街光復街口" description="" tilt="0" distance="27.0057"/>
       <hotspot skinid="ht_node" url="{node13}" pan="-101.136" target="$fwd" id="Point02" title="福建街441號" description="just test" tilt="0" distance="81.4076"/>
-      <hotspot title="title" description="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>I need  one description here is my &lt;a href=&quot;https://oring-brother.com&quot;>website &lt;/a>This is&#xa;my first try for website &lt;a href=&quot;https://pano2vr.com&quot;>color&lt;/a>. ]&lt;/p>&#xa;&lt;div>" skinid="ht_image" tilt="19.35" pan="-336.47" url="images/JMS_4892.jpg" target="" id="Point03"/>
+      <hotspot title="" description="" skinid="ht_image" tilt="19.35" pan="-336.47" url="images/JMS_4892.jpg" target="" id="Point03"/>
       <hotspot skinid="ht_node" url="{node27}" pan="162.935" target="$fwd" id="Point06" title="南京街290巷16號前" description="" tilt="0" distance="103.815"/>
     </hotspots>
     <media/>
