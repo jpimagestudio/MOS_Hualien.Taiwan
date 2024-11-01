@@ -26,7 +26,8 @@
 
 .bt_lobby{ 
             font-family: "gilroybold";
-            font-size: 17px;
+            font-size: 16px;
+	letter-spacing: 2px;	
             }
             
 .info_body{             
@@ -37,7 +38,7 @@
             
 .info_header{           
             font-family: "gilroysemibold";
-            font-size: 25px;
+            font-size: 26px;
             line-height: 100%;
             }
             
