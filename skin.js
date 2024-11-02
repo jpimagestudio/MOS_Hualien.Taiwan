@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.1.5/20954
 // Filename: Info_img_url_3d_view_hotspot_for_MOS.ggsk
-// Generated 2024-11-02T15:35:00
+// Generated 2024-11-02T15:40:43
 
 function pano2vrSkin(player,base) {
 	player.addVariable('ht_ani', 2, false, { ignoreInState: 0  });
@@ -11224,8 +11224,8 @@ alert("The current view has been copied.");
 					skin.updateSize(me._staz);
 				}
 				else if (me._staz.ggCurrentLogicStateScaling == 1) {
-					me._staz.ggParameter.sx = 0.5;
-					me._staz.ggParameter.sy = 0.5;
+					me._staz.ggParameter.sx = 0.6;
+					me._staz.ggParameter.sy = 0.6;
 					me._staz.style.transform=parameterToTransform(me._staz.ggParameter);
 					skin.updateSize(me._staz);
 				}
@@ -13174,6 +13174,11 @@ alert("The current view has been copied.");
 					hotspotTemplates['ht_node'][i].ggEvent_sizechanged();
 				}
 			}
+			if (hotspotTemplates.hasOwnProperty('hd_Info_Artist')) {
+				for(var i = 0; i < hotspotTemplates['hd_Info_Artist'].length; i++) {
+					hotspotTemplates['hd_Info_Artist'][i].ggEvent_sizechanged();
+				}
+			}
 			me._variable_resp_phone.logicBlock();
 			me._toggle_gyro.logicBlock_scaling();
 			me._thumbnail_menu_toggle.logicBlock_scaling();
@@ -13959,6 +13964,48 @@ alert("The current view has been copied.");
 				}
 			}
 		}
+		me._hd_info_artist.logicBlock_scaling = function() {
+			var newLogicStateScaling;
+			if (
+				((player.getViewerSize(true).width < 640)) && 
+				((player.getViewerSize(true).width >= 400))
+			)
+			{
+				newLogicStateScaling = 0;
+			}
+			else if (
+				((player.getViewerSize(true).width < 400))
+			)
+			{
+				newLogicStateScaling = 1;
+			}
+			else {
+				newLogicStateScaling = -1;
+			}
+			if (me._hd_info_artist.ggCurrentLogicStateScaling != newLogicStateScaling) {
+				me._hd_info_artist.ggCurrentLogicStateScaling = newLogicStateScaling;
+				me._hd_info_artist.style.transition='transform 0s, opacity 0s';
+				if (me._hd_info_artist.ggCurrentLogicStateScaling == 0) {
+					me._hd_info_artist.ggParameter.sx = 0.8;
+					me._hd_info_artist.ggParameter.sy = 0.8;
+					me._hd_info_artist.style.transform=parameterToTransform(me._hd_info_artist.ggParameter);
+					skin.updateSize(me._hd_info_artist);
+				}
+				else if (me._hd_info_artist.ggCurrentLogicStateScaling == 1) {
+					me._hd_info_artist.ggParameter.sx = 0.6;
+					me._hd_info_artist.ggParameter.sy = 0.6;
+					me._hd_info_artist.style.transform=parameterToTransform(me._hd_info_artist.ggParameter);
+					skin.updateSize(me._hd_info_artist);
+				}
+				else {
+					me._hd_info_artist.ggParameter.sx = 1;
+					me._hd_info_artist.ggParameter.sy = 1;
+					me._hd_info_artist.style.transform=parameterToTransform(me._hd_info_artist.ggParameter);
+					skin.updateSize(me._hd_info_artist);
+				}
+			}
+		}
+		me._hd_info_artist.logicBlock_scaling();
 		me._hd_info_artist.logicBlock_alpha = function() {
 			var newLogicStateAlpha;
 			if (
@@ -13972,7 +14019,7 @@ alert("The current view has been copied.");
 			}
 			if (me._hd_info_artist.ggCurrentLogicStateAlpha != newLogicStateAlpha) {
 				me._hd_info_artist.ggCurrentLogicStateAlpha = newLogicStateAlpha;
-				me._hd_info_artist.style.transition='opacity 0s';
+				me._hd_info_artist.style.transition='transform 0s, opacity 0s';
 				if (me._hd_info_artist.ggCurrentLogicStateAlpha == 0) {
 					me._hd_info_artist.style.visibility=me._hd_info_artist.ggVisible?'inherit':'hidden';
 					me._hd_info_artist.style.opacity=1;
@@ -14008,6 +14055,7 @@ alert("The current view has been copied.");
 			player.triggerEvent('hsproxyout', {'id': me.hotspot.id, 'url': me.hotspot.url});
 			me._hd_info_artist.logicBlock_alpha();
 		}
+		me._hd_info_artist.ggCurrentLogicStateScaling = -1;
 		me._hd_info_artist.ggCurrentLogicStateAlpha = -1;
 		me._hd_info_artist.ggUpdateConditionTimer=function () {
 			if (me.elementMouseOver['hd_info_artist']) {
@@ -14247,6 +14295,7 @@ alert("The current view has been copied.");
 		me._button_text.ggUpdatePosition=function (useTransition) {
 		}
 		me._hd_info_artist.appendChild(me._button_text);
+		me._hd_info_artist.logicBlock_scaling();
 		me._hd_info_artist.logicBlock_alpha();
 		me.elementMouseOver['hd_info_artist']=false;
 		me._button_background.logicBlock_backgroundcolor();
@@ -14255,6 +14304,9 @@ alert("The current view has been copied.");
 			};
 			me.ggEvent_configloaded=function() {
 				me._button_background.logicBlock_backgroundcolor();
+			};
+			me.ggEvent_sizechanged=function() {
+				me._hd_info_artist.logicBlock_scaling();
 			};
 			me.ggEvent_varchanged_change_color=function() {
 				me._button_background.logicBlock_backgroundcolor();
@@ -16859,17 +16911,17 @@ alert("The current view has been copied.");
 			skin._pdf_popup_title.ggUpdateText();
 			skin._pdf_popup_title.ggTextDiv.scrollTop = 0;
 			skin._popup_pdf.ggInitPdf(player.getBasePath()+""+player._(me.hotspot.url));
-			let pdfInterval_9 = setInterval(() => {
+			let pdfInterval_17 = setInterval(() => {
 				if (skin._popup_pdf__pdf.contentWindow.PDFViewerApplication && skin._popup_pdf__pdf.contentWindow.PDFViewerApplication.initialized && skin._popup_pdf__pdf.contentWindow.PDFViewerApplication.downloadComplete && skin._popup_pdf__pdf.contentWindow.PDFViewerApplication.pdfViewer._pageViewsReady) {
 					skin._popup_pdf.ggSetCurrentPage(Number(player._(me.hotspot.target)));
-					clearInterval(pdfInterval_9);
+					clearInterval(pdfInterval_17);
 				}
 			}, 50);
 			skin._pdf_popup_phone.ggInitPdf(player.getBasePath()+""+player._(me.hotspot.url));
-			let pdfInterval_10 = setInterval(() => {
+			let pdfInterval_18 = setInterval(() => {
 				if (skin._pdf_popup_phone__pdf.contentWindow.PDFViewerApplication && skin._pdf_popup_phone__pdf.contentWindow.PDFViewerApplication.initialized && skin._pdf_popup_phone__pdf.contentWindow.PDFViewerApplication.downloadComplete && skin._pdf_popup_phone__pdf.contentWindow.PDFViewerApplication.pdfViewer._pageViewsReady) {
 					skin._pdf_popup_phone.ggSetCurrentPage(Number(player._(me.hotspot.target)));
-					clearInterval(pdfInterval_10);
+					clearInterval(pdfInterval_18);
 				}
 			}, 50);
 			if (
