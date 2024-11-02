@@ -53,7 +53,7 @@
       <label textcolor="0x000000" bordercolor="0x000000" border="1" textalpha="1" borderalpha="1" height="20" background="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" width="180" backgroundalpha="1" wordwrap="1"/>
       <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
       <hotspot tilt="0" distance="27.0057" url="{node8}" skinid="ht_node" pan="151.055" description="" title="成功街阿思瑪麗景飯店" target="$fwd" id="Point02"/>
-      <hotspot tilt="0" distance="114.95" url="{node23}" skinid="ht_node_1" pan="41.2938" description="" title="南京街257號" target="$fwd" id="Point03"/>
+      <hotspot tilt="0" distance="114.95" url="{node23}" skinid="ht_node" pan="41.2938" description="" title="南京街257號" target="$fwd" id="Point03"/>
       <hotspot description="" tilt="0.97" title="" url="images/JMS_4901.jpg" skinid="ht_image" target="" id="Point04" pan="-59"/>
       <hotspot description="" tilt="3.53" title="" url="images/13-2 .jpg" skinid="ht_image" target="" id="Point05" pan="-176.27"/>
       <hotspot tilt="2.38" distance="16.1877" url="{node10}" skinid="ht_node" pan="-37.54" description="" title="成功街光復街口" target="$fwd" id="Point01"/>
@@ -87,8 +87,9 @@
     <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
       <label textcolor="0x000000" bordercolor="0x000000" border="1" textalpha="1" borderalpha="1" height="20" background="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" width="180" backgroundalpha="1" wordwrap="1"/>
       <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
-      <hotspot tilt="3.03" distance="16.0303" url="{node11}" skinid="ht_node" pan="-86.61" description="" title="成功街光復街口" target="$fwd" id="Point02"/>
+      <hotspot tilt="0" distance="16.0303" url="{node11}" skinid="ht_node" pan="-89.6933" description="" title="成功街光復街口" target="$fwd" id="Point02"/>
       <hotspot tilt="0" distance="16.1877" url="{node12}" skinid="ht_node" pan="93.5073" description="" title="成功街光復街口" target="$fwd" id="Point01"/>
+      <hotspot description="" tilt="-5.23" title="" url="images/MOS-3.jpg" skinid="ht_image" target="" id="Point03" pan="-324.28"/>
     </hotspots>
     <media>
       <sound tilt="-1.000" pansize="10.000" tiltsize="10.000" ambientlevel="0.000" mode="0" pan="-1.000" loop="0" level="0.600" nodechangekeep="1" field="90.000" startmutedmobile="0" id="_background">
@@ -119,7 +120,6 @@
     <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
       <label textcolor="0x000000" bordercolor="0x000000" border="1" textalpha="1" borderalpha="1" height="20" background="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" width="180" backgroundalpha="1" wordwrap="1"/>
       <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
-      <hotspot description="" tilt="6.03" title="" url="images/MOS-3.jpg" skinid="ht_image" target="" id="Point03" pan="-312.03"/>
       <hotspot tilt="0" distance="16.0303" url="{node10}" skinid="ht_node" pan="136.897" description="" title="成功街光復街口" target="$fwd" id="Point01"/>
     </hotspots>
     <media>
@@ -615,7 +615,7 @@
     <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
       <label textcolor="0x000000" bordercolor="0x000000" border="1" textalpha="1" borderalpha="1" height="20" background="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" width="180" backgroundalpha="1" wordwrap="1"/>
       <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
-      <hotspot tilt="-0.43" distance="13.7433" url="{node17}" skinid="ht_node" pan="-204.7" description="" title="南京街290巷9號" target="$fwd" id="Point01"/>
+      <hotspot tilt="0" distance="13.7433" url="{node17}" skinid="ht_node" pan="157.698" description="" title="南京街290巷9號" target="$fwd" id="Point01"/>
       <hotspot tilt="0" distance="80.319" url="{node7}" skinid="ht_node" pan="257.704" description="" title="成功街272號前" target="$fwd" id="Point02"/>
       <hotspot description="" tilt="4.14" title="" url="images/MOS-22.jpg" skinid="ht_image" target="" id="Point03" pan="-349.99"/>
       <hotspot description="" tilt="3.23" title="" url="images/29018-1225.jpg" skinid="ht_image" target="" id="Point04" pan="-64.48"/>
@@ -680,7 +680,7 @@
     <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
       <label textcolor="0x000000" bordercolor="0x000000" border="1" textalpha="1" borderalpha="1" height="20" background="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" width="180" backgroundalpha="1" wordwrap="1"/>
       <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
-      <hotspot tilt="0.99" distance="28.6046" url="{node25}" skinid="ht_node" pan="-227.95" description="" title="南京街253號" target="$fwd" id="Point02"/>
+      <hotspot tilt="0" distance="28.6046" url="{node25}" skinid="ht_node" pan="-230.761" description="" title="南京街253號" target="$fwd" id="Point02"/>
       <hotspot description="" tilt="1.91" title="" url="images/318-1231.jpg" skinid="ht_image" target="" id="Point04" pan="-15.98"/>
       <hotspot description="" tilt="1.76" title="" url="images/320-1232.jpg" skinid="ht_image" target="" id="Point05" pan="-359.28"/>
       <hotspot description="" tilt="13.04" title="" url="images/243-1241.jpg" skinid="ht_image" target="" id="Point06" pan="-188.64"/>
@@ -784,7 +784,6 @@
       <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
       <hotspot tilt="-0.77" distance="15.7419" url="{node25}" skinid="ht_node" pan="-82.62" description="" title="南京街253號" target="$fwd" id="Point01"/>
       <hotspot tilt="0" distance="114.95" url="{node12}" skinid="ht_node" pan="-12.0943" description="" title="成功街光復街口" target="$fwd" id="Point02"/>
-      <hotspot description="" tilt="2.26" title="" url="images/346-4921.jpg" skinid="ht_image" target="" id="Point03" pan="-11.85"/>
     </hotspots>
     <media>
       <sound tilt="-1.000" pansize="10.000" tiltsize="10.000" ambientlevel="0.000" mode="0" pan="-1.000" loop="0" level="0.600" nodechangekeep="1" field="90.000" startmutedmobile="0" id="_background">
