@@ -36,9 +36,9 @@
 	</head>
 	<body>
 <!-- - - - - - - 8<- - - - - - cut here - - - - - 8<- - - - - - - -->
-		<script type="text/javascript" src="pano2vr_player.js?ts=34468832">
+		<script type="text/javascript" src="pano2vr_player.js?ts=22942866">
 		</script>
-		<script type="text/javascript" src="skin.js?ts=34468832">
+		<script type="text/javascript" src="skin.js?ts=22942866">
 		</script>
 		<link rel="stylesheet" href="font_styles.css"/>
 		<link rel="stylesheet" href="3rdparty/leaflet/leaflet.css"/>
@@ -93,12 +93,12 @@
 			pano=new pano2vrPlayer("container");
 			pano.startNode = startNode;
 			pano.startView = startView;
-			pano.setQueryParameter("ts=34468832")
+			pano.setQueryParameter("ts=22942866")
 			// add the skin object
 			skin=new pano2vrSkin(pano);
 			// load the configuration
 			window.addEventListener("load", function() {
-				pano.readConfigUrlAsync("pano.xml?ts=34468832");
+				pano.readConfigUrlAsync("pano.xml?ts=22942866");
 			});
 			if (window.navigator.userAgent.match(/Safari/i)) {
 				// fix for white borders, rotation on iPhone
